@@ -20,4 +20,3 @@ RESPONSE=$(curl -s -X POST -H "Authorization: Basic $BASE64_AUTH" \
 NEW_ACCESS_TOKEN=$(echo "$RESPONSE" | jq -r '.access_token')
 
 echo "$NEW_ACCESS_TOKEN" > /Users/sejersen/dev/shell_scripts/spotify/auth_scripts/access_token.txt
-echo "Succesfully requested new acces token!"
