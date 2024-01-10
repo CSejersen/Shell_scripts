@@ -1,0 +1,5 @@
+/spotify/auth_scripts/access_token.txt
+/spotify/auth_scripts/auth_code.txt
+/spotify/auth_scripts/secret.txt
+/spotify/auth_scripts/refresh_token.txt
+.DS_Store
