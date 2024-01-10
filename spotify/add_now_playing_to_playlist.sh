@@ -1,8 +1,8 @@
 #!/bin/bash
 
-URI=$(jq -r '.item.uri' now_playing.json)
-ARTIST=$(jq -r '.item.artists[0].name' now_playing.json)
-TITLE=$(jq -r '.item.name' now_playing.json)
+URI=$(jq -r '.item.uri' /Users/sejersen/dev/shell_scripts/spotify/now_playing.json)
+ARTIST=$(jq -r '.item.artists[0].name' /Users/sejersen/dev/shell_scripts/spotify/now_playing.json)
+TITLE=$(jq -r '.item.name' /Users/sejersen/dev/shell_scripts/spotify/now_playing.json)
 
 ACCESS_TOKEN=$(cat "/Users/sejersen/dev/shell_scripts/spotify/auth_scripts/access_token.txt")
 
