@@ -1,100 +1,100 @@
 {
-  "timestamp" : 1704896188567,
+  "timestamp" : 1705001731160,
   "context" : {
     "external_urls" : {
-      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j"
+      "spotify" : "https://open.spotify.com/album/5aQFjsRw6rieK5oDNgGRyB"
     },
-    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX5trt9i14X7j",
-    "type" : "playlist",
-    "uri" : "spotify:playlist:37i9dQZF1DX5trt9i14X7j"
+    "href" : "https://api.spotify.com/v1/albums/5aQFjsRw6rieK5oDNgGRyB",
+    "type" : "album",
+    "uri" : "spotify:album:5aQFjsRw6rieK5oDNgGRyB"
   },
-  "progress_ms" : 146527,
+  "progress_ms" : 5106,
   "item" : {
     "album" : {
       "album_type" : "album",
       "artists" : [ {
         "external_urls" : {
-          "spotify" : "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+          "spotify" : "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         },
-        "href" : "https://api.spotify.com/v1/artists/0wcen0V8FgQu6xYupnZMbB",
-        "id" : "0wcen0V8FgQu6xYupnZMbB",
-        "name" : "softy",
+        "href" : "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+        "id" : "0iEtIxbK0KxaSlF7G42ZOp",
+        "name" : "Metro Boomin",
         "type" : "artist",
-        "uri" : "spotify:artist:0wcen0V8FgQu6xYupnZMbB"
-      }, {
-        "external_urls" : {
-          "spotify" : "https://open.spotify.com/artist/4vXVzSSH673xUv5sUmRGYX"
-        },
-        "href" : "https://api.spotify.com/v1/artists/4vXVzSSH673xUv5sUmRGYX",
-        "id" : "4vXVzSSH673xUv5sUmRGYX",
-        "name" : "no one's perfect",
-        "type" : "artist",
-        "uri" : "spotify:artist:4vXVzSSH673xUv5sUmRGYX"
+        "uri" : "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
       } ],
-      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+      "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
       "external_urls" : {
-        "spotify" : "https://open.spotify.com/album/7jUNvvjf7xVJzwV93bls3w"
+        "spotify" : "https://open.spotify.com/album/5aQFjsRw6rieK5oDNgGRyB"
       },
-      "href" : "https://api.spotify.com/v1/albums/7jUNvvjf7xVJzwV93bls3w",
-      "id" : "7jUNvvjf7xVJzwV93bls3w",
+      "href" : "https://api.spotify.com/v1/albums/5aQFjsRw6rieK5oDNgGRyB",
+      "id" : "5aQFjsRw6rieK5oDNgGRyB",
       "images" : [ {
         "height" : 640,
-        "url" : "https://i.scdn.co/image/ab67616d0000b27350671ac07a081db3898c2605",
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c91ab2dd6fcff9b7228ff7ac",
         "width" : 640
       }, {
         "height" : 300,
-        "url" : "https://i.scdn.co/image/ab67616d00001e0250671ac07a081db3898c2605",
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c91ab2dd6fcff9b7228ff7ac",
         "width" : 300
       }, {
         "height" : 64,
-        "url" : "https://i.scdn.co/image/ab67616d0000485150671ac07a081db3898c2605",
+        "url" : "https://i.scdn.co/image/ab67616d00004851c91ab2dd6fcff9b7228ff7ac",
         "width" : 64
       } ],
-      "name" : "The Beauty Around Us",
-      "release_date" : "2020-12-02",
+      "name" : "HEROES & VILLAINS",
+      "release_date" : "2022-12-02",
       "release_date_precision" : "day",
-      "total_tracks" : 10,
+      "total_tracks" : 15,
       "type" : "album",
-      "uri" : "spotify:album:7jUNvvjf7xVJzwV93bls3w"
+      "uri" : "spotify:album:5aQFjsRw6rieK5oDNgGRyB"
     },
     "artists" : [ {
       "external_urls" : {
-        "spotify" : "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        "spotify" : "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
       },
-      "href" : "https://api.spotify.com/v1/artists/0wcen0V8FgQu6xYupnZMbB",
-      "id" : "0wcen0V8FgQu6xYupnZMbB",
-      "name" : "softy",
+      "href" : "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+      "id" : "0iEtIxbK0KxaSlF7G42ZOp",
+      "name" : "Metro Boomin",
       "type" : "artist",
-      "uri" : "spotify:artist:0wcen0V8FgQu6xYupnZMbB"
+      "uri" : "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
     }, {
       "external_urls" : {
-        "spotify" : "https://open.spotify.com/artist/4vXVzSSH673xUv5sUmRGYX"
+        "spotify" : "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
       },
-      "href" : "https://api.spotify.com/v1/artists/4vXVzSSH673xUv5sUmRGYX",
-      "id" : "4vXVzSSH673xUv5sUmRGYX",
-      "name" : "no one's perfect",
+      "href" : "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+      "id" : "1URnnhqYAYcrqrcwql10ft",
+      "name" : "21 Savage",
       "type" : "artist",
-      "uri" : "spotify:artist:4vXVzSSH673xUv5sUmRGYX"
+      "uri" : "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5yPzzu25VzEk8qrGTLIrE1",
+      "id" : "5yPzzu25VzEk8qrGTLIrE1",
+      "name" : "Young Nudy",
+      "type" : "artist",
+      "uri" : "spotify:artist:5yPzzu25VzEk8qrGTLIrE1"
     } ],
-    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
     "disc_number" : 1,
-    "duration_ms" : 178343,
+    "duration_ms" : 222000,
     "explicit" : false,
     "external_ids" : {
-      "isrc" : "GBLV62026697"
+      "isrc" : "USUG12208801"
     },
     "external_urls" : {
-      "spotify" : "https://open.spotify.com/track/4mOXZ925Ii1nZkN0Wbm9Qe"
+      "spotify" : "https://open.spotify.com/track/5zDlRvgcPfmnAG7BaTu2fy"
     },
-    "href" : "https://api.spotify.com/v1/tracks/4mOXZ925Ii1nZkN0Wbm9Qe",
-    "id" : "4mOXZ925Ii1nZkN0Wbm9Qe",
+    "href" : "https://api.spotify.com/v1/tracks/5zDlRvgcPfmnAG7BaTu2fy",
+    "id" : "5zDlRvgcPfmnAG7BaTu2fy",
     "is_local" : false,
-    "name" : "Daisies",
-    "popularity" : 41,
-    "preview_url" : "https://p.scdn.co/mp3-preview/0d7bad6fc70a90f650b2578c6f736213faf2a70b?cid=96561ca40eda4d009f730ddd00c8e0dc",
-    "track_number" : 10,
+    "name" : "Umbrella (with 21 Savage & Young Nudy)",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2a9f5818296f035a8cfba6ad2ff5248d2fc3ff38?cid=96561ca40eda4d009f730ddd00c8e0dc",
+    "track_number" : 5,
     "type" : "track",
-    "uri" : "spotify:track:4mOXZ925Ii1nZkN0Wbm9Qe"
+    "uri" : "spotify:track:5zDlRvgcPfmnAG7BaTu2fy"
   },
   "currently_playing_type" : "track",
   "actions" : {
