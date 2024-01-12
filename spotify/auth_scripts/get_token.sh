@@ -14,4 +14,5 @@ TOKEN_RESPONSE=$(curl -s -X POST -H "Authorization: Basic $(echo -n "$CLIENT_ID:
   -d "grant_type=authorization_code&code=$AUTH_CODE&redirect_uri=$REDIRECT_URI" \
   https://accounts.spotify.com/api/token)
 
-echo "$TOKEN_RESPONSE"
+REFRESH_TOKEN=$(echo "$TOKEN_RESPONSE" | jq -r '.refresh_token')
+echo "$REFRESH_TOKEN" > refresh_token.txt

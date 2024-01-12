@@ -15,9 +15,10 @@ def home():
 
 @app.route('/callback')
 def callback():
-    # Get the authorization code from the callback
+    # Get the authorization code from the callback and write it to the auth_code.txt file
     auth_code = request.args.get('code')
-
+    auth_file = open('auth_code.txt', 'w')
+    auth_file.write(str(auth_code))
 
     return f'Authorization Code: {auth_code}'
 
