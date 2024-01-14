@@ -10,7 +10,7 @@ ACCESS_TOKEN=$(cat "/Users/sejersen/dev/shell_scripts/spotify/auth_scripts/acces
 
 #
 PLAYLIST_ID=6e1dvoMYW27TeDgdzMLqB3
-LIMIT=5
+LIMIT=20
 OFFSET=0
 RUN=1
 
