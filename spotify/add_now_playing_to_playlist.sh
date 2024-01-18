@@ -48,5 +48,5 @@ done
 # Add track if this is reached
 # Post request with the access token in the Authorization header - redirecting output to /dev/null for silent execution 
 curl -s -o /dev/null -X POST -H "Authorization: Bearer $ACCESS_TOKEN" "$API_ENDPOINT_ADD_TRACK"
-
+sdlkfjsdflk
 echo "Added: $TITLE - $ARTIST"
