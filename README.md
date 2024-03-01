@@ -1,4 +1,4 @@
-# My Shell Scripts
+[#](#) My Shell Scripts
 A collection of shell scripts written for fun and convenience.
 
 ## Spotify Scripts Setup
